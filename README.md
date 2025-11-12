@@ -14,3 +14,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-
 ``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-Scripts/main/When-players-collide-with-each-other,-the-other-player-is-knocked-back.lua", true))()
 ```
+``` lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-Scripts/raw/refs/heads/180901asm@isesaki-school.ed.jp/Enable-collision-for-all-objects.lua", true))()
+```
