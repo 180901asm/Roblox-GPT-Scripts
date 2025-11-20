@@ -1,6 +1,6 @@
 Roblox-ChatGPT-Scripts
 ``` lua
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-Scripts/main/Blocks-disappear-when-touched-by-the-player.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-Scripts/main/Blocks-disappear-when-touched-by-the-player.lua", true))()
 ```
 ``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/180901asm/Roblox-GPT-Scripts/main/Click-to-deal-damage-to-enemies-in-front-of-you.lua", true))()
